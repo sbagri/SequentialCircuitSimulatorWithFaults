@@ -1,3 +1,6 @@
+Theoritical details and motivation of the program is covered in the file Report_sbagri.pdf
+This file has detail of how to compile and run this program
+
 This program consists of only one file named Main.cpp
 
 Compiling the program
